@@ -1,4 +1,9 @@
-# title(){return this.options.title||this.options.name}
+# LEAD-SAVER
 
-# Leads saver
-this is a basic webaddress saver that saves y=websites for later use.
+this is a google chrome extension for saving leads for future references.
+
+# Functions
+
+1. it can automatically grab the web address of a useful lead using the "SAVE LEAD" button.
+2. web addresses can me manually entered into the input field and saved using the "SAVE INPUT" button.
+3. all entries can be cleared by double clicking on the "RESET ENTRIES" button.
