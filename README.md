@@ -1,2 +1,4 @@
-# LEAD-SAVER
-a chrome extension for saving leads
+# title(){return this.options.title||this.options.name}
+
+# Leads saver
+this is a basic webaddress saver that saves y=websites for later use.
